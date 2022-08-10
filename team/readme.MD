@@ -3,9 +3,9 @@
 - Service
     - Golden Signals
     - Business KPIs of your service (E.g. # of orders if that is a checkout service, # of logins if this is an Oauth2 service)
-    - # of incident
+    - No. of incident
     - SLAs/SLOs
-    - # of bugs
+    - No. of bugs
     - Cloud Costs per week/month
     - Unit/Integration test coverage
     - Code Quality (e.g. codacy/linting)
