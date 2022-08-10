@@ -14,7 +14,7 @@
 - Team
     - Deployment Frequency 
     - PR cycling Time
-    - JIRA ticket cycling Time
+    - JIRA ticket cycling Time / Workflow Bottleneck (which steps took the most time? CR? Deployment? etc)
     - Run a team health check exercise every 1-2 quarter
     - NPS score from the survey (e.g. peakon)
     - turn-over rate
