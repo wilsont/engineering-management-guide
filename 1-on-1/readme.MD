@@ -8,4 +8,5 @@
 - Be transparent, I don't have a crystal ball so please bring up the topics so I can offer my help / opinion. Please don't expect me to know all the details of your daily routine
 - My mission is to help you to success in your role
 - Feel free to bring up any topic even though you know that I don't have a solution
+- You can use this [Form](https://docs.google.com/forms/d/e/1FAIpQLScUjq3rHuIMvjGobyWJctQs2Lu7vEAs2KXuhT7y-8FzX2D2Vg/viewform) if you want to give me a anonymous feedback 
 
