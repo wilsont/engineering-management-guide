@@ -9,7 +9,7 @@
     - Cloud Costs per week/month
     - Unit/Integration test coverage
     - Code Quality (e.g. codacy/linting)
-    - Load Testing
+    - Load Testing on regular basic
 
 - Team
     - Deployment Frequency 
