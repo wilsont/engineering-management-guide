@@ -1,7 +1,7 @@
 ## General Notes
 
 - Your are the owner of the 1:1, not your manager
-- I will create a google doc and share between us and we keep our conversation private
+- Creating a google doc and share between us so we can keep our conversation private
 - I prefer you to share the screen and open the 1:1 doc to drive the discussion
 - Feel free to pre-fill the topics you would love to discussion before the 1:1 on the document
 - 50% of time spend on status report / tech discussion, while another 50% of time should spend on discussing personal growth like topics you love/hate, your status quo, any non-tech problems that you are facing.
