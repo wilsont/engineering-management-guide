@@ -26,4 +26,4 @@
     - `We` as a team in front of the others, we can disagree internally but we MUST align before discussing with external parties
     - Always keep the [80/20 rule](https://asana.com/resources/pareto-principle-80-20-rule) in mind because our capacity is limited but the backlog is always unlimited. 
     - It's okay to make mistake but it's not okay to make the same mistake twice
-    - If you are improving 1% each day (1.01 ^ 365) you will end up with 37 times better - The [1% Principle](https://the3fs.medium.com/the-1-principle-998b33512100). 
+    - If you are improving 1% each day (1.01 ^ 365) you will end up with 37 times better after 1 year - The [1% Principle](https://the3fs.medium.com/the-1-principle-998b33512100). 
